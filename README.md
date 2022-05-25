@@ -5,4 +5,4 @@ The project contains two folders:
 There are two reports generated
   1. ImprovingMovementDirectionofaRoadUserUsingMobileSensorData.pdf is the final report
   2. diff_ImprovingMovementDirectionofaRoadUserUsingMobileSensorData.pdf is the difference file compared with the latest and the last submitted report
-The python code is for the implementing the SOMDA algorithm and plotting and evaluaton of the approach.
+The python code is for the implementing the SOMDA algorithm and plotting and evaluation of the approach.
